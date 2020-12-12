@@ -1,0 +1,11 @@
+server {
+        listen 443;
+        listen 80;
+        server_name <server_ip>;
+
+location / {
+                include proxy_params;
+                proxy_pass http://unix:/home/ubuntu/tensorclan-ec2/backend/tensorclan.sock;
+        }
+
+}
