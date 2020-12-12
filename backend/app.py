@@ -11,7 +11,15 @@ from typing import Tuple, Any, Union, Callable
 import numpy as np
 from PIL import ImageFile
 from PIL.Image import Image
-from flask import Flask, jsonify, request, Response, make_response, Request
+from flask import (
+    Flask,
+    jsonify,
+    request,
+    Response,
+    make_response,
+    Request,
+    render_template,
+)
 from flask_cors import CORS, cross_origin
 from werkzeug.datastructures import FileStorage
 from torch import Tensor

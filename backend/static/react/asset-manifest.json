@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.59ca2286.chunk.css",
+    "main.js": "/static/react/js/main.0863971a.chunk.js",
+    "main.js.map": "/static/react/js/main.0863971a.chunk.js.map",
+    "runtime-main.js": "/static/react/js/runtime-main.8e8c9687.js",
+    "runtime-main.js.map": "/static/react/js/runtime-main.8e8c9687.js.map",
+    "js/2.98da6259.chunk.js": "/static/react/js/2.98da6259.chunk.js",
+    "js/2.98da6259.chunk.js.map": "/static/react/js/2.98da6259.chunk.js.map",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "css/main.59ca2286.chunk.css.map": "/static/react/css/main.59ca2286.chunk.css.map",
+    "js/2.98da6259.chunk.js.LICENSE.txt": "/static/react/js/2.98da6259.chunk.js.LICENSE.txt",
+    "media/logo.61f43610.svg": "/static/react/media/logo.61f43610.svg",
+    "media/mnist_vae_decoder_32x32_onnxjs.08faf3e8.onnx": "/static/react/media/mnist_vae_decoder_32x32_onnxjs.08faf3e8.onnx",
+    "media/mnist_vae_encoder_32x32.baf8309a.onnx": "/static/react/media/mnist_vae_encoder_32x32.baf8309a.onnx"
+  },
+  "entrypoints": [
+    "js/runtime-main.8e8c9687.js",
+    "js/2.98da6259.chunk.js",
+    "css/main.59ca2286.chunk.css",
+    "js/main.0863971a.chunk.js"
+  ]
+}
